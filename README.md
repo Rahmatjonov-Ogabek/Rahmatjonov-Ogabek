@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/15/f0/72/15f0729d004bbf7ecea976b38a1fd8cb.gif" alt="" style="width: 500px;">
+<img src="https://i.pinimg.com/originals/15/f0/72/15f0729d004bbf7ecea976b38a1fd8cb.gif" alt="" style="width: 500px; margin-left: 50px;">
 
 <h1 align="center">Salom 👋, men Ogabek</h1>
 <h3 align="center">Men Full Stack boyicha O`zbekistonlik Junior dasturchisiman</h3>
